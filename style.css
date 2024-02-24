@@ -1,0 +1,66 @@
+.navbar li{
+    color: black;
+}
+.navbar a:hover{
+    color: black;
+}
+.p1{
+ max-width: 426px;
+height: 112px;
+margin-top: 130px;
+font-family: Muli;
+font-size: 48px;
+line-height: 56px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+}
+.p2{
+    max-width: 445px;
+height: 96px;
+margin-top: 20px;
+color: #7D7987;
+}
+.p3{
+    margin-top: 100px;
+max-width: 212px;
+height: 56px;
+font-family: Muli;
+font-size: 36px;
+display: flex;
+text-align: center;
+color: #000000;
+margin-left:450px ;
+}
+.p4{
+    max-width: 952px;
+height: 60px;
+}
+.button2{
+    width: 200px;
+height: 56px;
+top: 2041px;
+left: 700px;
+border-radius: 55px;
+border: 1.4px;
+ border: 1.4px solid #458FF6;
+ margin-left: 500px;
+ margin-top: 50px;
+}
+.button3{
+    width: 200px;
+height: 56px;
+top: 2041px;
+left: 700px;
+border-radius: 55px;
+
+}
+.section8{
+    background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+
+}
+.text{
+    color: white;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
